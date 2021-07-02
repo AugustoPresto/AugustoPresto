@@ -13,7 +13,7 @@
 
 - 📫 Feel free to get in touch **augustodesouzacardoso@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEixEtYlZ4/N14BOGYS7YxPhNrqaT92KA/view?utm_content=DAEixEtYlZ4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEixEtYlZ4/N14BOGYS7YxPhNrqaT92KA/view?utm_content=DAEixEtYlZ4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know more about other experiences [reading my resume](https://www.canva.com/design/DAEixEtYlZ4/N14BOGYS7YxPhNrqaT92KA/view?utm_content=DAEixEtYlZ4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
