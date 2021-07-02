@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently honing my skills in **Rails, React, CSS and HTML**
 
+- 🚒 Just finished Le Wagon's bootcamp in Rio de Janeiro.
+
 - 👯 I already have some nice projects here: [FavelaZap](https://favelazap.herokuapp.com/) - a mobile-only PWA Rails app
 
 - 🤝 And here: [Roof & Bed](http://roof-and-bed.herokuapp.com/) - an AirBnb clone
