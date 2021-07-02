@@ -9,7 +9,7 @@
 
 - 🤝 And here: [Roof & Bed](http://roof-and-bed.herokuapp.com/) - an AirBnb clone
 
-- 👨‍💻 All of my projects are available at [https://github.com/AugustoPresto?tab=repositories](https://github.com/AugustoPresto?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repos page](https://github.com/AugustoPresto?tab=repositories)
 
 - 📫 Feel free to get in touch **augustodesouzacardoso@gmail.com**
 
