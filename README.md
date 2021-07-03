@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Augusto Souza</h1>
-<h3 align="center">A Fullstack Dev from Brazil looking for new experiences!</h3>
+<h1 align="left">Hi 🙃, I'm Augusto Souza</h1>
+<h3 align="left">A Fullstack Dev from Brazil looking for new experiences!</h3>
 
 - 🔭 I’m currently looking for a job in tech [mainly in Ruby, but other languages would also be great!](https://github.com/AugustoPresto?tab=repositories)
 
-- 🌱 I’m currently honing my skills in **Rails, React, CSS and HTML**
+- 🔪 I’m currently sharpening my skills in **Rails, React, CSS and HTML**
 
-- 🚒 Just finished Le Wagon's bootcamp in Rio de Janeiro.
+- 🚌 Just finished Le Wagon's bootcamp in Rio de Janeiro
 
 - 👯 I already have some nice projects here: [FavelaZap](https://favelazap.herokuapp.com/) - a mobile-only PWA Rails app
 
-- 🤝 And here: [Roof & Bed](http://roof-and-bed.herokuapp.com/) - an AirBnb clone
+- 🏠 And here: [Roof & Bed](http://roof-and-bed.herokuapp.com/) - an AirBnb clone
 
 - 👨‍💻 All of my projects are available at [my repos page](https://github.com/AugustoPresto?tab=repositories)
 
