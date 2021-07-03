@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a job in tech [mainly in Ruby, but other languages would also be great!](https://github.com/AugustoPresto?tab=repositories)
 
-- 🔪 I’m currently sharpening my skills in **Rails, React, CSS and HTML**
+- 🔪 And sharpening my skills in **Rails, React, CSS and HTML**
 
 - 🚌 Just finished Le Wagon's bootcamp in Rio de Janeiro
 
