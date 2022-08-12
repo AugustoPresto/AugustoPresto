@@ -1,13 +1,11 @@
 <h1 align="left">Hi 🙃, I'm Augusto Souza</h1>
 <h3 align="left">A Fullstack Dev from Brazil looking for new experiences!</h3>
 
-- 🔭 I’m currently looking for a job in tech [mainly in Ruby, but other languages would also be great!](https://github.com/AugustoPresto?tab=repositories)
+- 🔭 I’m currently working at [Verafi](https://verafi.ai/) with Ruby on Rails, plain JS, MySQL, Sidekiq, Rspec, HTML and CSS.
 
-- 🔪 And sharpening my skills in **Rails, React, CSS and HTML**
+- 🔪 Sharpening my skills in **Rails, React, CSS and HTML**
 
-- 🚌 Just finished Le Wagon's bootcamp in Rio de Janeiro
-
-- 👯 I already have some nice projects here: [FavelaZap](https://favelazap.herokuapp.com/) - a mobile-only PWA Rails app
+- 👯 I also have some nice projects here: [FavelaZap](https://favelazap.herokuapp.com/) - a mobile-only PWA Rails app
 
 - 🏠 And here: [Roof & Bed](http://roof-and-bed.herokuapp.com/) - an AirBnb clone
 
