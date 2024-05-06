@@ -1,9 +1,11 @@
 <h1 align="left">Hi 🙃, I'm Augusto Souza</h1>
 <h3 align="left">A Fullstack Dev from Brazil looking for new experiences!</h3>
 
-- 🔭 I’m currently working at [Verafi](https://verafi.ai/) with Ruby on Rails, plain JS, MySQL, Sidekiq, Rspec, HTML and CSS.
+- 🔭 I’m currently working at MPGO, a Brazilian Public Prosecutor's Office enhancing the functionality and user experience of critical portals like [Portal da Transparência](https://www.mpgo.mp.br/transparencia) and [Portal MPGO](https://mpgo.mp.br/portal).
 
-- 🔪 Sharpening my skills in **Rails, React, CSS and HTML**
+- 🔭 My last job was at [Verafi](https://verafi.ai/) with Ruby on Rails, plain JS, MySQL, Sidekiq, Rspec, HTML and CSS.
+
+- 🔪 Sharpening my skills in **AWS, React, CSS and HTML**
 
 - 👯 I also have some nice projects here: [FavelaZap](https://favelazap.herokuapp.com/) - a mobile-only PWA Rails app
 
